@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Innomatics Data App")
+st.title("Shivasai vemula ")
 st.snow()
 
 btn_click = st.button("Click Me!")
