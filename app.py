@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.title("Shivasai vemula ")
-st.write("check out this [link](https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py)")
+st.write("check out this [link](https://github.com/shivasaivemula)")
+st.write("check out this [link](https://www.linkedin.com/in/shivasai-vemula-306169264)")
 st.snow()
 
 btn_click = st.button("Click Me!")
